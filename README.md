@@ -1,4 +1,4 @@
-# SAPB1SFIntegration
+# SAP B1 & SalesForce Integration
 
 This project cover an example of how integrate SAP B1 with SalesForce.  
 
