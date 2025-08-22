@@ -1,6 +1,6 @@
 # SAPB1SFIntegration
 
-This project cover an example of how integrate SAP B1 with salesforce.  
+This project cover an example of how integrate SAP B1 with SalesForce.  
 
 Below is the step-by-step on how to generate the token to use in the authentication process.  
 
