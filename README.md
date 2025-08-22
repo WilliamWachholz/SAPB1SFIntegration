@@ -16,7 +16,7 @@ How to generate SSL certificate to use in salesforce
 ○ Organization Name (eg, company) [Internet Widgits Pty Ltd]:CompanyName  
 ○ Organizational Unit Name (eg, section) []:Company  
 ○ Common Name (e.g. server FQDN or YOUR name) []:John  
-○ Email Address []:your@email.com  
+○ Email Address: your@email.com  
 ○ openssl x509 -req -sha256 -days 1095 -in server.csr -signkey server.key -out server.crt  
 
 
